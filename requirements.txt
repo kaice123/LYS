@@ -1,3 +1,4 @@
+pip install asyncio
 discord.py==0.16.12
 asyncio.py==3.4
 datetime.py==4.3
