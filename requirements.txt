@@ -1,6 +1,6 @@
 discord.py==0.16.12
 asyncio.py==3.4.3
-datetime.py=4.3
+datetime.py==4.3
 youtube_dl.py==2020.7.28
 urllib3.py==1.25.10
 ffmpeg.py==1.4
