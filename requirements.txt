@@ -2,7 +2,6 @@ discord.py==0.16.12
 asyncio.py
 datetime.py
 json.py
-*.py
 commands.py
 youtube_dl.py
 urllib.py
